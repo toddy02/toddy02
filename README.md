@@ -1,4 +1,4 @@
-### Olá! Eu sou o Emily fialho 👋
+### Olá! Eu sou a Emily fialho 👋
 
 
 ![Emily fialho GitHub stats](https://github-readme-stats.vercel.app/api?username=toddy02&show_icons=true&theme=tokyonight)
